@@ -18,8 +18,7 @@ Infrastructure is provisioned using:
 - Vagrant
 - VirtualBox
 
-## Architecture Diagram
-![Architecture](architecture/architecture-diagram.png)
+
 
 ## Infrastructure Setup
 
